@@ -6,7 +6,7 @@
     "warnings": {
       "versionMismatch": false
     },
-    "packageManager": "yarn",
+    "packageManager": "npm",
     "analytics": false
   },
   "generators": {
